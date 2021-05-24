@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.carousel-item img {
+    width: 100%;
+}
+
+.accordion-section {
+    background: #13d3f4;
+    margin: 20px 40px;
+}
+
+.experience {
+    background: #1786ff;
+}
+
+.progress {
+    width: 70%;
+    margin-bottom: 20px;
+
+}
+
+.experience select {
+    width: 27%;
+}
+
+.accordion {
+    width: 80%;
+
+    margin: 30px 0 30px 20px;
+}
+
+.fa-angle-down {
+    margin-left: 400px;
+}
+
+.card-header a {
+    text-decoration: none;
+}
+
+.card-header h5 {
+    font-size: 15px;
+}
+
+.transparent-div {
+    background: #13d3f4;
+}
+
+.transparent-div h5 {
+    color: #000;
+}
+
+.card-body img {
+    width: 100%;
+}
